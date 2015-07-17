@@ -1,0 +1,1 @@
+"./cpv.o" -Wl,--start-group -l"spirg2955_core" -l"m" -Wl,--end-group 
